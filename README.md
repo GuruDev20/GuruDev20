@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Netflix Clone<br>👯 I’m looking to collaborate on Flutter Projects<br>🌱 I’m currently learning Flutter, Next JS<br>💬 Ask me about Flutter, React, Java
+🔭 I’m currently working on Hyperhub Event Management Project<br>👯 I’m looking to collaborate on MERN Projects<br>🌱 I’m currently learning Next JS<br>💬 Ask me about React, Java
 
 
 ## 🌐 Socials:
