@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Hyperhub Event Management Project<br>👯 I’m looking to collaborate on MERN Projects<br>🌱 I’m currently learning Next JS<br>💬 Ask me about React, Java
+🔭 I’m currently working on Block-Vault Project<br>👯 I’m looking to collaborate on MERN Projects<br>🌱 I’m currently learning Next JS<br>💬 Ask me about React, Java
 
 
 ## 🌐 Socials:
